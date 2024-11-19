@@ -8,5 +8,6 @@ function preload(){
 }
 
 function draw(){
-
+    orbitControl();
+    box();
 }
